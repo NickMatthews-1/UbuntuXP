@@ -9,6 +9,6 @@ cd
 cd /home/xp
 mkdir .icons
 mkdir .themes
-mv /home/xp/Desktop/WinXPDesktop/Windows-XP-Desktops /home/xp/.themes
-mv /home/xp/Desktop/WinXPDesktop/Windows-XP-Icons /home/xp/.icons
+mv /home/xp/Desktop/UbuntuXP/Windows-XP-Desktops /home/xp/.themes
+mv /home/xp/Desktop/UbuntuXP/Windows-XP-Icons /home/xp/.icons
 
